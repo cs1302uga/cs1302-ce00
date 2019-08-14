@@ -9,6 +9,12 @@ This exercise is designed to review some of the object-oriented concepts from yo
 ## Before You Begin
 
    1. Create a new Eclipse project titled `cs1302-ce00`.
-   2. Download https://github.com/cs1302uga/cs1302-ce00/blob/master/src/Money.java
-   3. Download https://github.com/cs1302uga/cs1302-ce00/blob/master/src/Wallet.java
+   1. Download [Money.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Money.java?token=AAO3LOUUAOUAYGTIDFUNWMK5LV3W2)
+   1. Download [Wallet.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Wallet.java?token=AAO3LORBTKJXSFFO2543XX25LV33W)
+   1. Place both `Money.java` and `Wallet.java` in the `src` folder of your `cs1302-ce00` project folder.
+   
+Note: This is the last time you will be using eclipse. :)
+
+## Getting Started
+
    
