@@ -1,5 +1,7 @@
 # ce00 Review Exercise
 
+![Approved for: Fall 2019](https://img.shields.io/badge/Approved%20for-Fall%202019-brightgreen)
+
 This exercise is designed to review some of the object-oriented concepts from your introductory programming course.
 If you have trouble implementing any of the methods or understanding any concepts in this exercise, your instructors
 recommend thoroughly reviewing your introductory course materials and asking questions to fill in any gaps. All 
@@ -20,7 +22,7 @@ concepts in this exercise will be critical moving forward in 1302.
    
 ## Getting Started
 
-   1. Navigate to [API Documentation](http://www.omfgdogs.com).
+   1. Navigate to [API Documentation](http://cobweb.cs.uga.edu/~cs1302a/cs1302-ce00-doc/).
    1. The `Money.java` class is fully implemented for you. Read through the API documentation to understand the
    methods that are available and how to use them.
    1. Your main job for this exercise is to implement `Wallet.java`. There are four unimplemented methods. However, 
