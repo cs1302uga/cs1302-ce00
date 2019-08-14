@@ -15,7 +15,8 @@ concepts in this exercise will be critical moving forward in 1302.
    in this course.
    1. Download [Money.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Money.java?token=AAO3LOUUAOUAYGTIDFUNWMK5LV3W2)
    1. Download [Wallet.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Wallet.java?token=AAO3LORBTKJXSFFO2543XX25LV33W)
-   1. Place both `Money.java` and `Wallet.java` in the `src` folder of your `cs1302-ce00` project folder.
+   1. Download [WalletDriver.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/WalletDriver.java?token=AAO3LOVWGAPQX73AFZQ25MS5LWBY6)
+   1. Place `Money.java`, `Wallet.java` and `WalletDriver.java` in the `src` folder of your `cs1302-ce00` project folder.
    
 ## Getting Started
 
