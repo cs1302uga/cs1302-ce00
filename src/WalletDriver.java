@@ -1,14 +1,9 @@
 public class WalletDriver {
 
-    private Wallet wallet;
-
-    private void beforeEachTest() {
-
-    } // beforeEachTest
-
-    private void afterEachTest() {
-
-    } // afterEachTest
+    private boolean testConstructor1() {
+	Wallet wallet = new Wallet(null);
+	return wallet.getTotalValue() == 0;
+    } // testConstructor1
 
     /**
      * Entry point into the application.
