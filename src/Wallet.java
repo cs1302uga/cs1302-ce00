@@ -53,7 +53,8 @@ public class Wallet {
     /**
      * Adds the specified {@link Money} object to the Wallet. If the {@code Wallet}
      * is full, the size of the internal array storing the monies should double in
-     * size to hold the new reference. If the parameter is null, this method simply 
+     * size to hold the new reference. If the internal array size is zero, then the 
+     * new array size should be 2. If the parameter is null, this method simply 
      * does nothing.
      * 
      * @param m A {@link Money} reference to be added to the Wallet.
