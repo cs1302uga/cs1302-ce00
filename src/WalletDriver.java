@@ -67,7 +67,7 @@ public class WalletDriver {
         assertDoubleEquals("testConstructor1", wallet.getTotalValue(), 0.0, 0.01);
     } // testConstructor1
 
-    private static boolean testConstructor2() {
+    private static void testConstructor2() {
         Money[] monies = new Money[10];
         monies[0] = new Money(10, 25);
         monies[1] = new Money(1, 25);
