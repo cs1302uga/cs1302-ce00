@@ -1,6 +1,6 @@
 # ce00 Review Exercise
 
-![Approved for: Fall 2019](https://img.shields.io/badge/Approved%20for-Fall%202019-brightgreen)
+![Approved for: Spring 2020](https://img.shields.io/badge/Approved%20for-Spring%202020-blue)
 
 This exercise is designed to review some of the object-oriented concepts from your introductory programming course.
 If you have trouble implementing any of the methods or understanding any concepts in this exercise, your instructors
