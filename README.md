@@ -37,8 +37,9 @@ recommend thoroughly reviewing your introductory course materials and asking que
    1. The `Money.java` class is fully implemented for you. Read through the API documentation on the
       API documentation website to understand the methods that are available and how to use them.
       **Before you continue, make sure everyone in your group is familiar with these methods.**
-   1. Find a random method in the [API Documentation](http://cobweb.cs.uga.edu/~cs1302a/cs1302-ce00-doc/),
-      then look one of your group membes in the eye and ask, "What does `insertMethodName` do?"
+   1. Find a random method in the [API Documentation](http://cobweb.cs.uga.edu/~cs1302a/cs1302-ce00-doc/), 
+      then, replacing `insertMethodName` with the actual method name, look one of your group members in 
+      the eyes and ask, "What does `insertMethodName` do?"
       **Before you continue, make sure everyone in your group is familiar with these methods.**
    1. Your main job for this exercise is to implement `Wallet.java`. There are four unimplemented methods. 
       However, the signatures are provided for you. The comments in the API documentation contain detailed 
