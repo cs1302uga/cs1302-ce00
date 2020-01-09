@@ -86,6 +86,18 @@ public class WalletDriver {
         assertDoubleEquals("testConstructor3", wallet.getTotalValue(), 15.30, 0.01);
     } // testConstructor3
 
+    private static void testConstructor4() {
+        Money[] monies = new Money[2];
+        monies[0] = new Money(5, 10);
+        Wallet wallet = new Wallet(monies);
+        wallet.addMoney(new Money(5, 10));
+        wallet.addMoney(new Money(5, 10));
+
+	// Changing the monies array after creating the wallet, should not change the total value of the wallet
+	monies[1] = new Money(5, 10);
+        assertDoubleEquals("testConstructor4", wallet.getTotalValue(), 15.30, 0.01);
+    } // testConstructor3
+
     private static void testAddMoney0() {
         Wallet wallet = new Wallet(null);
         wallet.addMoney(null);
@@ -155,6 +167,7 @@ public class WalletDriver {
         testConstructor1();
         testConstructor2();
         testConstructor3();
+        testConstructor4();
         testAddMoney0();
         testAddMoney1();
         testAddMoney2();
