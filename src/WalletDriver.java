@@ -93,7 +93,8 @@ public class WalletDriver {
         wallet.addMoney(new Money(5, 10));
         wallet.addMoney(new Money(5, 10));
 
-	// Changing the monies array after creating the wallet, should not change the total value of the wallet
+	// Changing the monies array after creating the wallet
+	// This should not change the total value of the wallet
 	monies[1] = new Money(5, 10);
         assertDoubleEquals("testConstructor4", wallet.getTotalValue(), 15.30, 0.01);
     } // testConstructor3
