@@ -1,6 +1,6 @@
 # ce00 Review Exercise
 
-![Approved for: Spring 2020](https://img.shields.io/badge/Approved%20for-Spring%202020-blue)
+![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
 
 This exercise is designed to review some of the object-oriented concepts from your introductory programming course.
 If you have trouble implementing any of the methods or understanding any concepts in this exercise, your instructors
@@ -9,6 +9,7 @@ recommend thoroughly reviewing your introductory course materials and asking que
 
 ## Prerequisite Knowledge
 
+* [CSCI 1302 Reference Variable Refresher](https://github.com/cs1302uga/cs1302-tutorials/blob/master/refresher/variables.md)
 * A strong understanding of Arrays, Classes and Ojects in the Java programming language.
 
 ## Getting Started
