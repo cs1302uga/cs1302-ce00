@@ -1,3 +1,5 @@
+package cs1302.ce00;
+
 /**
  * Represents a container for {@link Money} objects. A {@code Wallet} object
  * can contain any number of {@code Money} references.
