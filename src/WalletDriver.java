@@ -1,5 +1,3 @@
-package cs1302.ce00;
-
 /**
  * A series of tests for the 1302 review exercise (ce00). While these tests cover
  * most of the functionality implemented in the {@code Wallet} class, students

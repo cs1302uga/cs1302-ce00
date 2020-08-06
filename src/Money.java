@@ -1,5 +1,3 @@
-package cs1302.ce00;
-
 /**
  * Represents a unit of currency. Each {@code Money} object contains fields for dollars and cents
  * which can be accessed via their respective getter methods.
@@ -11,7 +9,7 @@ public class Money {
     /**
      * Constructs a new {@code Money} object using the user-specified
      * values for dollars and cents. If dollars is negative, a default
-     * value of 0 will be assigned. If cents is less than 0 or greater 
+     * value of 0 will be assigned. If cents is less than 0 or greater
      * than 99, a default value of 0 will be assigned.
      *
      * @param dollars the number of dollars for this {@code Money} object.
@@ -29,7 +27,7 @@ public class Money {
         } else {
             this.cents = 0;
         } // if
-            
+
     } // Money Constructor
 
     /**
