@@ -31,8 +31,17 @@ recommend thoroughly reviewing your introductory course materials and asking que
    1. Download [Wallet.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Wallet.java)
    1. Download [WalletDriver.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/WalletDriver.java)
    1. Place `Money.java`, `Wallet.java` and `WalletDriver.java` in the `src` folder of your `cs1302-ce00` project folder.
-   
-## Getting Started
+
+## Introductory Video
+
+1. You might find the following introductory video helpful for getting started with the exercise:
+
+   https://youtu.be/puduQZisWsc
+
+   <a href="https://www.youtube.com/watch?v=puduQZisWsc">
+   <img src="https://i9.ytimg.com/vi/puduQZisWsc/mq2.jpg?sqp=CPyhxvkF&rs=AOn4CLCoP4PaEZTNjIRhSQ6M92ILZmsMVQ&retry=4" alt="IMAGE ALT TEXT">
+   </a>
+## Exercise Steps
 
    1. Navigate to [API Documentation](http://cobweb.cs.uga.edu/~cs1302a/cs1302-ce00-doc/).
    1. The `Money.java` class is fully implemented for you. Read through the API documentation on the
