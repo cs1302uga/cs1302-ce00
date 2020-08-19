@@ -39,8 +39,9 @@ recommend thoroughly reviewing your introductory course materials and asking que
    https://youtu.be/puduQZisWsc
 
    <a href="https://www.youtube.com/watch?v=puduQZisWsc">
-   <img src="https://i9.ytimg.com/vi/puduQZisWsc/mq2.jpg?sqp=CPyhxvkF&rs=AOn4CLCoP4PaEZTNjIRhSQ6M92ILZmsMVQ&retry=4" alt="IMAGE ALT TEXT">
+   <img src="https://i9.ytimg.com/vi/puduQZisWsc/mq2.jpg" alt="IMAGE ALT TEXT">
    </a>
+   
 ## Exercise Steps
 
    1. Navigate to [API Documentation](http://cobweb.cs.uga.edu/~cs1302a/cs1302-ce00-doc/).
