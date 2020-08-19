@@ -39,7 +39,7 @@ recommend thoroughly reviewing your introductory course materials and asking que
    https://youtu.be/puduQZisWsc
 
    <a href="https://www.youtube.com/watch?v=puduQZisWsc">
-   <img src="https://i9.ytimg.com/vi/puduQZisWsc/mq2.jpg" alt="IMAGE ALT TEXT">
+   <img src="https://i3.ytimg.com/vi/puduQZisWsc/hqdefault.jpg" alt="IMAGE ALT TEXT">
    </a>
    
 ## Exercise Steps
