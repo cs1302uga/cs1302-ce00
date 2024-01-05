@@ -1,6 +1,6 @@
 # ce00 Review Exercise
 
-![Approved for: Fall 2020](https://img.shields.io/badge/Approved%20for-Fall%202020-blueviolet)
+![Approved for: Spring 2024](https://img.shields.io/badge/Approved%20for-Spring%202024-blue)
 
 This exercise is designed to review some of the object-oriented concepts from your introductory programming course.
 If you have trouble implementing any of the methods or understanding any concepts in this exercise, your instructors
@@ -9,22 +9,20 @@ recommend thoroughly reviewing your introductory course materials and asking que
 
 ## Prerequisite Knowledge
 
-* [CSCI 1302 Reference Variable Refresher](https://github.com/cs1302uga/cs1302-tutorials/blob/master/refresher/variables.md)
-* A strong understanding of Arrays, Classes and Ojects in the Java programming language.
+* [CSCI 1302 Reference Variable Refresher](https://github.com/cs1302uga/cs1302-tutorials/blob/alsi/refresher/variables.md)
+* A strong understanding of Arrays, Classes, and Objects in the Java programming language.
 
 ## Getting Started
 
-   1. Read the following disclaimers:
+   > In CSCI 1302, per the syllabus, all of your course-related programming will take place in a 
+   > Unix-like environment on the department's Odin server. This includes editing source code
+   > using a terminal-based text editor such as Emacs or Vi (i.e., no Eclipse, IntelliJ, BlueJ, etc.), 
+   > compiling source code from the terminal, generating user-facing documentation, and 
+   > even program execution.
       
-      > In CSCI 1302, per the syllabus, all of your course-related programing will take place in a 
-      > Unix-like environment on the department's Nike server. This includes editing source code
-      > using a terminal-based text editor such as Emacs or Vi (i.e., no Eclipse, IntelliJ, BlueJ, etc.), 
-      > compiling source code from the terminal, generating user-facing documentation, and 
-      > even program execution.
-      
-      > **The only exception to the previous disclaimer is today's exercise!** You've already taken
-      > at least one semester of programming, so use the tools you're currently familiar with to
-      > complete this exercise.
+   > **The only exception to the previous disclaimer is this homework assignment!** Since we haven't yet
+   > covered the necessary Unix material, you can use the tools you used in the prerequisite Java course to
+   > complete this exercise.
       
    1. In your IDE of choice, create a project called `cs1302-ce00`. 
    1. Download [Money.java](https://raw.githubusercontent.com/cs1302uga/cs1302-ce00/master/src/Money.java)
